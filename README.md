@@ -14,7 +14,7 @@ Owl mode helps you  dark and light mode to your website
 </code>
 </pre>
 
-<b>Car code</b>
+<bCss code</b>
 <pre>
   <code>
     .checkbox-label .ball {
