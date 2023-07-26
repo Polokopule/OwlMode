@@ -3,16 +3,18 @@ Owl mode helps you  dark and light mode to your website
 <img src="20230726_231001.jpg"/>
 <h1>Usage</h1>
 ```html
-<h2>Example of code</h2>
+&lt;div class=&quot;fixed-top-right&quot;&gt;
+  &lt;input type=&quot;checkbox&quot; class=&quot;checkbox&quot; id=&quot;checkbox&quot;&gt;
+  &lt;label for=&quot;checkbox&quot; class=&quot;checkbox-label&quot;&gt;
+    &lt;i class=&quot;fas fa-moon&quot;&gt;&lt;/i&gt;
+    &lt;i class=&quot;fas fa-sun&quot;&gt;&lt;/i&gt;
+    &lt;span class=&quot;ball&quot;&gt;&lt;/span&gt;
+  &lt;/label&gt;
+&lt;/div&gt;
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
+
+
+
+
+
 ```
